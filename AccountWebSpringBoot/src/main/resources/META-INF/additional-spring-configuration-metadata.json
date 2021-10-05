@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "Discovery Rewards",
+      "type": "java.lang.String",
+      "description": "Description for swagger.application.name."
+    },
+    {
+      "name": "2.5.5",
+      "type": "java.lang.String",
+      "description": "Description for swagger.application.version."
+    },
+    {
+      "name": "This is the Account System",
+      "type": "java.lang.String",
+      "description": "Description for swagger.application.description."
+    }
+  ] }
